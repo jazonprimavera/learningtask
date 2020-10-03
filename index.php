@@ -7,6 +7,12 @@
  </head>
 
  <body>
+	   <div id="logoMain">
+    <div id="logoInside"></div>
+	<div id="jp">
+	<h3>PRIMAVERA</h3>
+</div>
+  </div>
  
  <div class="header">
     <div class="inner_header">
