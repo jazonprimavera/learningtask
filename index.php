@@ -11,7 +11,7 @@
  <div class="header">
     <div class="inner_header">
 	<div class="logo_container">
-	    <h1>MY<span>SITE</span></h1>
+	    <h1>PRIMA<span>VERA</span></h1>
        </div>
 	   
 	   <ul class="navigation">
