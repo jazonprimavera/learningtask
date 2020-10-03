@@ -7,24 +7,13 @@
  </head>
 
  <body>
-	   <div id="logoMain">
-    <div id="logoInside"></div>
-	<div id="jp">
-	<h3>PRIMAVERA</h3>
-</div>
-  </div>
  
  <div class="header">
     <div class="inner_header">
 	<div class="logo_container">
 	    <h1>MY<span>SITE</span></h1>
        </div>
-	   
-	   <ul class="navigation">
-	   <a><li>Home</li></a>
-	   <a><li>About</li></a>
-	   <a><li>Portfolio</li></a>
-	   <a><li>Contact</li></a>
+	  
 	   </ul>
 	  </div>
 	 </div>
